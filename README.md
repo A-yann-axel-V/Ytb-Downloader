@@ -1,5 +1,5 @@
 # Ytb-Downloader
-Python code using to download videos from youtube thanks to the url.
+Python code used to download videos from youtube thanks to the url.
 
   1- Copy the url of the video from youtube, paste it if necessary
 
